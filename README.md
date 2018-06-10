@@ -37,6 +37,8 @@
 [Node.js 高级编程](https://tuzhu008.github.io/nodejs-advanced-programming/) —— 手工录入的同名书籍
 
 
+## 插件
+[pace](https://tuzhu008.github.io/pace/) 页面加载进度条
 ## 他人翻译
 
 ## 其他资料
